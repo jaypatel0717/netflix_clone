@@ -3,7 +3,7 @@
 #### Used Technologies :
 
 1. React JS
-2. TMDB movie list API
+2. TMDB movie list API - it is free
 3. Flexbox
 4. Deploy app using Firebase
 
