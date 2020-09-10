@@ -4,11 +4,7 @@
 
 1. React JS
 2. TMDB movie list API - it is free 
-
-
-[Go to the using percentile jupyter nootebook code](https://github.com/jaypatel0717/Feature_Engineering_DS/blob/master/outliers_using_percentile/detect_outliers_using_percentile.ipynb)
-        [click here]
-        (https://www.themoviedb.org/?language=en-US)
+[click here](https://www.themoviedb.org/?language=en-US)
 3. Flexbox
 4. Deploy app using Firebase
 
