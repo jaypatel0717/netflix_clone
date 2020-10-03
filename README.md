@@ -1,4 +1,4 @@
-## Netflix Clone React Application
+### Netflix Clone React Application
 
 #### Used Technologies :
 
