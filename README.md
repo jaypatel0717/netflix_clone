@@ -1,10 +1,18 @@
 ### Netflix Clone React Application
 
+<br/>
+
+![Alt text](https://github.com/jaypatel0717/google_clone/blob/master/src/Image/homescreen.png)
+
+-> This is Google clone app using react, google API and firebase based application.<br/>
+-> You can search anything in like actual google search engine.<br/>
+-> Open [Netflix clone](https://netflixclone-ee616.web.app/) to view it in the browser.
+
 #### Used Technologies :
 
 1. React JS
-2. TMDB movie list API - it is free 
-[click here](https://www.themoviedb.org/?language=en-US)
+2. TMDB movie list API
+   [click here](https://www.themoviedb.org/?language=en-US)
 3. Flexbox
 4. Deploy app using Firebase
 
