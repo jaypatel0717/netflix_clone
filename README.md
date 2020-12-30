@@ -4,7 +4,7 @@
 
 ![Alt text](https://github.com/jaypatel0717/netflix_clone/blob/master/public/home.png)
 
--> This is Netflix clone app using react, TMDB movie list API for movive data and firebase.<br/>
+-> This is Netflix clone app using react, TMDB movie list API for movie data and firebase.<br/>
 -> You can see the movie list that I am fetching using API and you can click on it and see trailer of movie.<br/>
 -> Open [Netflix clone](https://netflixclone-ee616.web.app/) to view it in the browser.
 
